@@ -1,1 +1,1 @@
-# Advanced-prompt-engineering-strategies
+# Advanced prompt engineering strategies
